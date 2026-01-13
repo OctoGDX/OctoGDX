@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/10014831?v=4" 
+    width="150" 
+    alt="Header image"
+  />
+</div>
 
-<!--
-**OctoGDX/OctoGDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <table width="85%">
+    <tr>
+      <td width="55%" align="center">
+       <div align="center">
+         <h1>Gadiel Guillen</h1>
+         <p>Web Developer · UI/UX · Interactive Systems</p>
+       </div>
+      </td>
+      <td width="40%" align="center">
+        <img 
+          src="https://c.tenor.com/-oX6GkEkoWcAAAAd/tenor.gif" 
+          width="360"
+        />
+      </td>
+      <td width="45%" align="center">
+        <table width="100%">
+          <tr>
+            <td align="center">
+              <h1>PRESENT DAY...</h1>
+              <h1>PRESENT TIME...</h1>
+              <h1>HAHAHAHA!!!</h1>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
