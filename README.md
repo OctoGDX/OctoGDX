@@ -1,12 +1,4 @@
 <div align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/10014831?v=4" 
-    width="150" 
-    alt="Header image"
-  />
-</div>
-
-<div align="center">
   <table width="85%">
     <tr>
       <td width="55%" align="center">
